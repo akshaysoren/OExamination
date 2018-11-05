@@ -4,4 +4,10 @@ hello this is aksahy and i am new to asp .net MVC
 this is done for...
 
 akshaysoren22
-public repository{get;set;}//properties..
+
+public class rpoductReposiroty
+{
+  int id{get;set;}
+  string name{get;set;}
+}
+

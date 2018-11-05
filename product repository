@@ -1,0 +1,4 @@
+class Product Repository
+{
+public tblrepository{get;set;}
+}

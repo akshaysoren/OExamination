@@ -9,5 +9,6 @@ public class rpoductReposiroty
 {
   int id{get;set;}
   string name{get;set;}
+  string address{get;set;}
 }
 
